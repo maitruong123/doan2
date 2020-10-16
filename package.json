@@ -17,7 +17,7 @@
     "express-ejs-layouts": "^2.2.0",
     "express-mailer": "^0.3.1",
     "method-override": "^2.3.7",
-    "mongodb": "^2.2.24",
+    "mongodb": "^3.6.2",
     "mongodb-autoincrement": "^1.0.1",
     "mongoose": "^4.8.4",
     "mongoose-sequence": "^3.1.0",
